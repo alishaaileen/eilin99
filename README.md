@@ -1,6 +1,4 @@
-<center>
-  # Howdy, I'm Aileen 👋🤠</h1>
-</center>
+<h1 align="center">Howdy, I'm Aileen 👋🤠</h1>
 
 I'm a programmer based in Indonesia. Mostly doing front end stuffs but also excited to learn other
 
@@ -28,9 +26,9 @@ I'm a programmer based in Indonesia. Mostly doing front end stuffs but also exci
 ![](https://img.shields.io/badge/VSCode?style=flat&logo=vscode&logoColor=white&color=2496ED)
 
 
-<center>
-  ### Get in touch with me
+<p align="center">
+  Get in touch with me
   <a href="https://www.linkedin.com/in/alisha-aileen">
     <i class="ri-linkedin-box-fill"></i>
   </a>
-</center>
+</p>
