@@ -14,7 +14,7 @@ I'm a programmer based in Indonesia. Mostly doing front end stuffs but also exci
 ## Tech Stacks & Tools 🤠💻
 
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/-VueJS-informational?style=flat&logo=vue&logoColor=white&color=4FC08D)
+![](https://img.shields.io/badge/-VueJS-informational?style=flat&logo=vuejs&logoColor=white&color=4FC08D)
 ![](https://img.shields.io/badge/-Vuex-informational?style=flat&logo=vuex&logoColor=white&color=4FC08D)
 ![](https://img.shields.io/badge/-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/-SASS-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
@@ -23,7 +23,7 @@ I'm a programmer based in Indonesia. Mostly doing front end stuffs but also exci
 ![](https://img.shields.io/badge/-Node-informational?style=flat&logo=node&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=5C2D91)
 
 ## Get in touch with me
 
