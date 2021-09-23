@@ -1,5 +1,5 @@
 <center>
-  <h1>Howdy, I'm Aileen 👋🤠</h1>
+  # Howdy, I'm Aileen 👋🤠</h1>
 </center>
 
 I'm a programmer based in Indonesia. Mostly doing front end stuffs but also excited to learn other
@@ -11,6 +11,7 @@ I'm a programmer based in Indonesia. Mostly doing front end stuffs but also exci
 - 📫 How to reach me: alishaileen05@gmail.com
 - ⚡ Fun fact: I love dancing 💃
 
+[![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falishaileen&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Tech Stacks & Tools 🤠💻
 
@@ -28,11 +29,8 @@ I'm a programmer based in Indonesia. Mostly doing front end stuffs but also exci
 
 
 <center>
-    Get in touch with me
-    <a href="https://www.linkedin.com/in/alisha-aileen">
-      <i class="ri-linkedin-box-fill"></i>
-    </a>
+  ### Get in touch with me
+  <a href="https://www.linkedin.com/in/alisha-aileen">
+    <i class="ri-linkedin-box-fill"></i>
+  </a>
 </center>
-
-
-[![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falishaileen&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
