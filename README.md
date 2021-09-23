@@ -13,24 +13,14 @@ I'm a programmer based in Indonesia. Mostly doing front end stuffs but also exci
 
 ## Tech Stacks & Tools 🤠💻
 
-![](https://img.shields.io/badge/Linux?style=flat&logo=linux&logoColor=white&color=FCC624)
-
+[![](https://img.shields.io/badge/Linux?style=flat&logo=linux&logoColor=white&color=FCC624)]
 ![](https://img.shields.io/badge/VueJS?style=flat&logo=vue&logoColor=white&color=4FC08D)
-
 ![](https://img.shields.io/badge/Vuex?style=flat&logo=vuex&logoColor=white&color=4FC08D)
-
 ![](https://img.shields.io/badge/ReactJS?style=flat&logo=react&logoColor=white&color=61DAFB)
-
 ![](https://img.shields.io/badge/SASS?style=flat&logo=sass&logoColor=white&color=CC6699)
-
 ![](https://img.shields.io/badge/HTML5?style=flat&logo=html5&logoColor=white&color=E34F26)
-
 ![](https://img.shields.io/badge/CSS3?style=flat&logo=css3&logoColor=white&color=1572B6)
-
 ![](https://img.shields.io/badge/Node?style=flat&logo=node&logoColor=white&color=339933)
-
 ![](https://img.shields.io/badge/Laravel?style=flat&logo=laravel&logoColor=white&color=FF2D20)
-
 ![](https://img.shields.io/badge/Docker?style=flat&logo=docker&logoColor=white&color=2496ED)
-
 ![](https://img.shields.io/badge/VSCode?style=flat&logo=vscode&logoColor=white&color=2496ED)
